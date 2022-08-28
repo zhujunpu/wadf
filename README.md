@@ -20,19 +20,30 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 天气：{{weather.DATA}} 
 
-气温：{{temp.DATA}} 
+最低气温：{{min_temp.DATA}} 
 
-风向：{{wind_dir.DATA}} 
+最高气温：{{max_temp.DATA}} 
 
-今天是我们恋爱的第{{love_day.DATA}}天 
+当前气温：{{temp.DATA}} 
+
+当前风向：{{wind_dir.DATA}} 
+
+pm2.5值：{{pm2p5.DATA}} 
+
+空气质量：{{category.DATA}} 
+
+日出时间：{{sunrise.DATA}} 
+
+日落时间：{{sunset.DATA}} 今
+
+天是我们恋爱的第{{love_day.DATA}}天 
 
 {{birthday1.DATA}} 
-{{birthday2.DATA}}
+{{birthday2.DATA}} 
 
 
 {{note_en.DATA}} 
 {{note_ch.DATA}}
-
 
 天气key生成教程
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/%E5%92%8C%E9%A3%8E%E5%A4%A9%E6%B0%94key%E7%94%9F%E6%88%90.png)
